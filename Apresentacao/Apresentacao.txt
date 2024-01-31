@@ -1,0 +1,24 @@
+Apresentação
+
+Bem-vindo!
+
+É  um  prazer  tê-lo  como  aluno  do  nosso  curso  online Java - Criando um Aplicativo Completo. Este curso é ideal
+para você que já conhece a linguagem Java e deseja desenvolver um projeto de maneira organizada, modular e em
+conformidade com as melhores práticas de mercado de desenvolvimento de aplicativos.
+
+No decorrer das aulas, você vivenciará a experiência prática de desenvolvimento de um projeto real completo. Durante o
+curso, o aluno percorrerá as diversas fases de desenvolvimento de um projeto, desde a análise de requisitos do sistema
+a ser desenvolvido, passando pela implementação do projeto, até a geração da documentação e do pacote de instalação do
+programa.
+
+Para obter um bom aproveitamento do curso Java - Criando um Aplicativo Completo (online), é recomendável dominar os
+fundamentos da linguagem Java e da programação orientada a objetos, e ter noções de utilização dos comandos básicos da
+linguagem SQLm da IDE Eclipse e das bibliotecas básicas do Java. Bom aprendizado!
+
+Este curso conta com:
+
+Videoaulas sobre os assuntos que você precisa saber neste curso prático de Java.
+
+Exercícios de testes para você pôr à prova o que aprendeu.
+
+Material de apoio para você testar os exemplos das videoaulas.
