@@ -1,0 +1,32 @@
+Informativo
+
+Caro(a) aluno(a),
+
+Para ajudá-lo(a) a reforçar os conhecimentos adquiridos neste curso, você dispõe de um Material de Apoio com o conjunto
+de arquivos utilizados pelo instrutor durante as videoaulas. Esse material está organizado em pastas disponíveis em cada
+aula e pode ser baixado para uso em seu computador.
+
+Na seção Material de Apoio - Projeto Completo, você encontra os arquivos do projeto Estacionamento, desenvolvido pelo
+instrutor durante o curso. Você poderá fazer o download e executar o projeto em seu computador, para fins de consulta.
+
+Este curso foi ministrado com uso dos softwares Eclipse IDE for Java Developers, JDK – Java Developer Kit (versão 1.8),
+Violet UML Editor e Mysql Workbench. A instalação desses itens é importante para o acompanhamento do curso e a execução
+das demonstrações dadas nas aulas. Para baixá-los, acesse os seguintes endereços:
+
+Eclipse IDE for Java Developers
+
+https://eclipse.org/downloads/packages/eclipse-ide-java-developers/mars2
+
+JDK – Java Developer Kit (versão 1.8)
+
+http://www.oracle.com/technetwork/pt/java/javase/downloads/jdk8-downloads-2133151.html
+
+Violet UML Editor
+
+http://alexdp.free.fr/violetumleditor/page.php
+
+Mysql Workbench
+
+http://dev.mysql.com/downloads/workbench/
+
+Atenção: Verifique o seu sistema operacional e respectiva versão para fazer o download dos softwares.
