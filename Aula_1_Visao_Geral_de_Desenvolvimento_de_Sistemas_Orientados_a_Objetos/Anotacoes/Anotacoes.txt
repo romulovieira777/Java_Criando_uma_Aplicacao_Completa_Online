@@ -1,0 +1,30 @@
+# Etapas para Desenvolver um Sistema
+
+01 - Fases do desenvolvimento de sistemas
+02 - Visão geram da UML
+
+## Principais artefatos para o desenvolvedor
+
+    - Documento de requesitos
+    - Diagrama de casos de uso
+        - Descrição dos cenários de casos de uso
+    - Diagrama de classes
+    - Diagrama de sequência
+
+## Ferramentas de Apoio
+
+- Dia Diagram Editor
+- StarUML
+- Umbrello UML Modeller
+- Violet UML Editor
+- Astah Community
+- Borland Together
+- Enterprise Architect
+- IBM Rational Rose
+
+
+## Metodologias
+
+- As duas principais correntes metodológicas para desenvolvimento de sistemas são:
+    - Unified Process (UP)
+    - Extreme Programming (XP)
