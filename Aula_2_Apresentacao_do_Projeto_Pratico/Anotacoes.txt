@@ -1,0 +1,38 @@
+Visão Geral
+
+Criar um Sistema de Controle de Estacionamento Rotativo:
+
+    - Este sistema deve apenas se concentrar no registro de entrada e saída de veículos, bem como no cálculo correto do
+      valor a ser pago pelo tempo de permanência do veículo no estacionamento.
+    - Não há pernoite de veículos nem mensalistas.
+    - O sistema deve ser capaz de gerar relatórios de faturamento baseados num determinado período.
+
+O que são Requesitos Funcionais?
+
+    - Sentenças que descrevem explicitamente as funcionalidades do sistema.
+    - Documentam
+        - O que o sistema deve prover ao usuário final.
+        - Comportamento mediante eventos de negócio.
+        - O que o sistema NÃO faz.
+
+Requesitos Funcionais
+
+1. Registrar os dados básicos do veículo e horário de entrada no estaconamento.
+2. Calcular o valor a pagar na saída do veículo com base no horário de entrada e valor praticado no tarifário.
+3. Registrar data e hora de saída do veículo, bem como o valor pago.
+4. Consultar veículos estacionados num determinado instante.
+5. Emitir relatórios de faturamento mensal.
+6. NÃO será mantido cadastro de veículos e nem de clientes (estacionamento rotativo).
+
+O que são Requesitos não Funcionais?
+
+    - Sentenças que definem propriedades e restrições do sistema.
+        - Segurança, desempenho, softwares, arquitetura.
+    - Podem ser de todo o sistema ou parcial.
+
+Requesitos não Funcionais
+
+1. Arquitetura cliente-servidor.
+2. Interface "rica" desktop.
+3. Fácil migração para o ambiente Web e mobile.
+4. Usabilidade simples e direta.
