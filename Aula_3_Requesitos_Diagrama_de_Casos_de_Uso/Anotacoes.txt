@@ -1,0 +1,59 @@
+Casos de Uso
+
+Descrição narrativa de uma sequência de eventos que ocorre quando um ator usa um sistema para realizar uma tarefa.
+
+Casos de Uso - Objetivos
+- Descrever a funcionalidade do sistema.
+- Definir a fronteira do sistema.
+- Facilitar a comunicação com o usuário do sistema.
+
+Ator
+- A(s) entidade(s) que interage(m) com o sistema.
+- Externo ao sistema.
+- O sistema é descrito por vários casos de uso executados por atores definidos.
+
+Fluxo de Eventos
+- Especifica o comportamento de um caso de uso.
+- É uma sequência de comandos que descreve as etapas de execução de um caso de uso.
+
+Fluxo de Eventos em Caso de Uso
+- O fluxo de eventos de um caso de uso é composto por:
+    - Fluxo Básico descreve a funcionalidade principal do caso de uso, quando nenhum desvio é tomado.
+    - Fluxos Alternativos descrevem desvios predefinidos do fluxo básico.
+
+Registrar Entrada de Veículo - Fluxo Principal
+1. O operador registra a placa do veículo, marca, modelo e cor.
+2. O sistema registra automaticamente a data e hora de entrada do veículo.
+3. O sistema armazena os dados informados.
+4. O caso de uso termina.
+
+Registrar Entrada de Veículo - Fluxo Alternativo
+1. Ao registrar os dados do veículo, o sistema verifica que o estacionamento está lotado.
+2. O sistema exibe uma mensagem ao operador.
+3. O caso de uso termina.
+
+Registrar Entrada de Veículo - Fluxo Principal
+1. Operador informa a placa do veículo.
+2. O sistema recupera os dados do veículo e data de entrada.
+3. O sistema calcula o valor a ser pago baseado na data e hora corrente e nos valores do tarifário.
+4. O sistema exibe os dados do estacionamento: placa do veículo, data/hora de entrada, data/hora de saída e valor a
+pagar.
+5. O operador recebe o valor devido.
+6. O sistema armazena as informações completas da movimentação.
+7. O caso de uso termina.
+
+Registrar Saída de Veículo - Fluxo Alternativo
+1. Ao informar a placa, o sistema não encontra nenhum registro de entrada.
+2. O sistema exibe uma mensagem ao operador.
+3. O caso de uso termina.
+
+Emitir Relatório de faturamento - Fluxo Principal
+1. O operador informa um determinado mês e ano.
+2. O sistema lista todas as movimentações realizadas e finalizadas no mês e ano escolhidos.
+3. O sistema calcula o valor total arrecadado.
+4. O caso de uso termina.
+
+Emitir Relatório de faturamento - Fluxo Alternativo
+1. Após escolher determinado mês, o sistema não identifica qualquer movimentação finalizada.
+2. O sistema exibe uma mensagem ao operador.
+3. O caso de uso termina.
