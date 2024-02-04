@@ -1,0 +1,10 @@
+Diagrama de Classe
+- Classes que compõem o sistema com seus atributos, métodos e relacionamentos.
+- Representa uma visão estática de como as classes estão organizadas.
+- Nesta fase, são identificadas as classes pertecentes so domínio do sistema.
+
+Diagrama de Pacotes
+- Um pacote é um conjunto de elementos agrupados. Esses elementos podem ser classes, diagramas ou até mesmo outros
+pacotes.
+- Permite implementar "camadas", diminuindo acomplamento entre classes.
+- Facilita a adaptação futura para outras plataformas (Web, mobile e desktop).
