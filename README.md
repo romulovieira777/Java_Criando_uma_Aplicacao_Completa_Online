@@ -7,6 +7,6 @@
 - [Aula 02 - Apresentação do Projeto Prático](https://github.com/romulovieira777/Java_Criando_uma_Aplicacao_Completa_Online/tree/main/Aula_2_Apresentacao_do_Projeto_Pratico)
 - [Aula 03 - Requesitos: Diagrama de Casos de Uso](https://github.com/romulovieira777/Java_Criando_uma_Aplicacao_Completa_Online/tree/main/Aula_3_Requesitos_Diagrama_de_Casos_de_Uso)
 - [Aula 04 - Análise do Sistema: Diagrama de Classes e Pacotes](https://github.com/romulovieira777/Java_Criando_uma_Aplicacao_Completa_Online/tree/main/Aula_4_Analise_do_Sistema_Diagrama_de_Classes_e_Pacotes)
-- [Aula 05 - Projeto do Sistema: Diagrama de Sequência e Classes de Projeto](
+- [Aula 05 - Projeto do Sistema: Diagrama de Sequência e Classes de Projeto](https://github.com/romulovieira777/Java_Criando_uma_Aplicacao_Completa_Online/tree/main/Aula_5_Projeto_do_Sistema_Diagrama_de_Sequencia_e_Classes_de_Projeto)
 
 Link para o curso: [Impacta](https://impacta-beneficios.myedools.com/java-criando-um-aplicativo-completo-online)
