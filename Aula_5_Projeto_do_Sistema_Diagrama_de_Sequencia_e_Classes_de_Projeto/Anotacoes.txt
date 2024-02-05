@@ -1,0 +1,5 @@
+Diagrama de Sequência
+- Um diagrama de sequência descreve a maneira como os grupos de objetos colaboram em algum comportamento ao longo do
+tempo.
+- Ele registra o comportamento de um único caso de uso e exibe os objetos e as mensagens trocados entre eles dentro do
+caso de uso.
