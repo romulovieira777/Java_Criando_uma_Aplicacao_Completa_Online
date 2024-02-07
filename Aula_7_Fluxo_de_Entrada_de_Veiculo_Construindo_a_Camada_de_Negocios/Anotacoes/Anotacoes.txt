@@ -1,0 +1,13 @@
+Registrar Entrada de Veículo - Fluxo Principal
+
+1. O operador do sistema registra a placa, marca, modelo e cor do veículo.
+2. O sistema registra automaticamente a data e hora de entrada do veículo.
+3. O sistema armazena os dados informados.
+4. O caso de uso termina.
+
+
+Registra Entrada de Veículo - Fluxo Alternativo
+
+1. Ao registrar os dados do veículo, o sistema verifica que o estacionamento está lotado.
+2. O sistema exibe uma mensagem ao operador.
+3. O caso de uso termina.
