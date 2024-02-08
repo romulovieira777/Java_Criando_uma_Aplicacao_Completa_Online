@@ -1,0 +1,5 @@
+API Gráfica - Swing
+
+- Swing é um conjunto de classes que representam elementos gráficos para uso em Java
+- A API Swing procura renderizar os componentes minimizando ao máximo a dependência do sistema operacional
+- Alternativa: JavaFX ou Swing + JavaFX
