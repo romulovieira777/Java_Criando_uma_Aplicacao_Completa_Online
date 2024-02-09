@@ -1,4 +1,6 @@
 package impacta.ead.estacionamento.apresentacao;
 
-public class TelaInicialRelatorio {
+import javax.swing.*;
+
+public class TelaInicialRelatorio extends JFrame {
 }
