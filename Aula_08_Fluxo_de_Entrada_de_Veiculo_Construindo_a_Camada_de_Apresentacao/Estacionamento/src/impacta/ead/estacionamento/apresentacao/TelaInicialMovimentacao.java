@@ -25,13 +25,13 @@ public class TelaInicialMovimentacao extends JFrame implements ActionListener {
         btnEntrar = new JButton("");
         btnEntrar.setIcon(new ImageIcon(TelaInicialMovimentacao.class.getResource("/recursos/getin.png")));
         btnEntrar.addActionListener(this);
-        btnEntrar.setActionCommand("Entrada");
+        btnEntrar.setActionCommand("Entrar");
         getContentPane().add(btnEntrar);
 
         btnSair = new JButton("");
         btnSair.setIcon(new ImageIcon(TelaInicialMovimentacao.class.getResource("/recursos/getout.png")));
         btnSair.addActionListener(this);
-        btnSair.setActionCommand("Saida");
+        btnSair.setActionCommand("Sair");
         getContentPane().add(btnSair);
 
         setLocationRelativeTo(null);
