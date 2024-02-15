@@ -12,6 +12,6 @@
 - [Aula 07 - Fluxo de Entrada de Veículo: Construindo a Camada de Negócios](https://github.com/romulovieira777/Java_Criando_uma_Aplicacao_Completa_Online/tree/main/Aula_7_Fluxo_de_Entrada_de_Veiculo_Construindo_a_Camada_de_Negocios)
 - [Aula 08 - Fluxo de Entrada de Veículo: Construindo a Camada de Apresentação](https://github.com/romulovieira777/Java_Criando_uma_Aplicacao_Completa_Online/tree/main/Aula_7_Fluxo_de_Entrada_de_Veiculo_Construindo_a_Camada_de_Negocios)
 - [Aula 09 - Fluxo de Entrada de Veículo: Construindo a Camada de Controle](https://github.com/romulovieira777/Java_Criando_uma_Aplicacao_Completa_Online/tree/main/Aula_9_Fluxo_de_Entrada_de_Veiculo_Construindo_a_Camada_de_Controle)
-- [Aula 10 - Preparando a Camada de Persistência: Definição e Criação das Tabelas]()
+- [Aula 10 - Preparando a Camada de Persistência: Definição e Criação das Tabelas](https://github.com/romulovieira777/Java_Criando_uma_Aplicacao_Completa_Online/tree/main/Aula_10_Preparando_a_Camada_de_Persistencia_Definicao_e_Criacao_das_Tabelas)
 
 Link para o curso: [Impacta](https://impacta-beneficios.myedools.com/java-criando-um-aplicativo-completo-online)
