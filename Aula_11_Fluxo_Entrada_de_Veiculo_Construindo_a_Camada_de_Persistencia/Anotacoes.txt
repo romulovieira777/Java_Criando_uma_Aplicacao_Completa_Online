@@ -1,0 +1,6 @@
+Registrar Entrada de Veículo - Fluxo Principal
+
+1 - O operador registra a placa, marca, modelo e cor do veículo.
+2 - O sistema registra automaticamente a data e a hora de entrada do veículo.
+3 - O sistema armazena os dados informados.
+4 - O caso de uso termina.

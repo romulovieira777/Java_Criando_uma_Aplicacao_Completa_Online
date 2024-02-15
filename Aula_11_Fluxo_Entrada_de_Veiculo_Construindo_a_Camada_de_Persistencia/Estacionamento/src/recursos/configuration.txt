@@ -1,0 +1,6 @@
+url=
+usuario=
+senha=
+insertMov=INSERT INTO tb_movimentacao(placa, marca, modelo, cor, data_entrada) VALUES (?, ?, ?, ?, ?)
+atualizaVaga=UPDATE tb_status_vaga SET ocupadas = ? WHERE id = 1
+consultaOcupadas=SELECT ocupadas FROM tb_status_vaga WHERE id = 1
