@@ -1,4 +1,4 @@
-url=
+url=jdbc:mysql://ip:porta/bancodedados
 usuario=
 senha=
 insertMov=INSERT INTO tb_movimentacao(placa, marca, modelo, cor, data_entrada) VALUES (?, ?, ?, ?, ?)
