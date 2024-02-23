@@ -1,0 +1,17 @@
+Registrar Saída de Veículo - Fluxo Principal
+
+1. O operador informa a placa do veículo.
+2. O sistema recupera os dados do veículo e data de entrada.
+3. O sistema calcula o valor a ser pago  baseado na data e hora corrente e nos valores do tarifário.
+4. O sistema exibe os dados do estacionamento: placa do veículo, data/hora de entrada, data/hora de saída e valor a
+pagar.
+5. O operador recebe o valor devido.
+6. O sistema armazena as informações completas da movimentação.
+7. O caso de uso termina.
+
+
+Registrar Saída de Veículo - Fluxo Alternativo
+
+1. Ao informar a placa, o sistema não encontra nenhum registro de entrada.
+2. O sistema exibe uma mensagem ao operador.
+3. O caso de uso termina.
