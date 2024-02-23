@@ -15,6 +15,6 @@
 - [Aula 10 - Preparando a Camada de Persistência: Definição e Criação das Tabelas](https://github.com/romulovieira777/Java_Criando_uma_Aplicacao_Completa_Online/tree/main/Aula_10_Preparando_a_Camada_de_Persistencia_Definicao_e_Criacao_das_Tabelas)
 - [Aula 11 - Fluxo Entrada de Veículo: Construindo a Camada de Persistência](https://github.com/romulovieira777/Java_Criando_uma_Aplicacao_Completa_Online/tree/main/Aula_11_Fluxo_Entrada_de_Veiculo_Construindo_a_Camada_de_Persistencia)
 - [Aula 12 - Fluxo Saída de Veículo: Apresentação](https://github.com/romulovieira777/Java_Criando_uma_Aplicacao_Completa_Online/tree/main/Aula_12_Fluxo_Saida_de_Veiculo_Apresentacao)
-- [Aula 13 - Fluxo Saída de Veículo: Persistência, Útil e Controle]()
+- [Aula 13 - Fluxo Saída de Veículo: Persistência, Útil e Controle](https://github.com/romulovieira777/Java_Criando_uma_Aplicacao_Completa_Online/tree/main/Aula_13_Fluxo_Saida_de_Veiculo_Persistencia_Util_e_Controle)
 
 Link para o curso: [Impacta](https://impacta-beneficios.myedools.com/java-criando-um-aplicativo-completo-online)
