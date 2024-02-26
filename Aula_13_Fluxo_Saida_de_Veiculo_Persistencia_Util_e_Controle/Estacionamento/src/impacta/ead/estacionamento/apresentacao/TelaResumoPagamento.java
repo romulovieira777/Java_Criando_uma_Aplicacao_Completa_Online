@@ -3,6 +3,7 @@ package impacta.ead.estacionamento.apresentacao;
 import javax.swing.*;
 
 import impacta.ead.estacionamento.negocio.Movimentacao;
+import impacta.ead.estacionamento.utilitario.EstacionamentoUtil;
 
 import java.awt.*;
 import java.awt.event.ActionEvent;
@@ -13,21 +14,22 @@ public class TelaResumoPagamento extends JFrame implements ActionListener {
     public TelaResumoPagamento(Movimentacao movimentacao, JFrame parent) {
         this.parent = parent;
         getContentPane().setFont(new Font("Dialog", Font.BOLD, 12));
+        setSize(new Dimension(430, 300));
         setResizable(false);
         setTitle("Resumo de Pagamento");
         getContentPane().setLayout(null);
 
-        JLabel lblPlaca = new JLabel("Placa:");
+        JLabel lblPlaca = new JLabel("Placa: ");
         lblPlaca.setFont(new Font("Tahoma", Font.PLAIN, 14));
         lblPlaca.setBounds(110, 47, 46, 14);
         getContentPane().add(lblPlaca);
 
-        JLabel lblDataEntrada = new JLabel("Data de Entrada:");
+        JLabel lblDataEntrada = new JLabel("Entrada:");
         lblDataEntrada.setFont(new Font("Tahoma", Font.PLAIN, 14));
         lblDataEntrada.setBounds(96, 87, 60, 14);
         getContentPane().add(lblDataEntrada);
 
-        JLabel lblDataSaida = new JLabel("Data de Saída:");
+        JLabel lblDataSaida = new JLabel("Saída:");
         lblDataSaida.setFont(new Font("Tahoma", Font.PLAIN, 14));
         lblDataSaida.setBounds(110, 129, 46, 14);
         getContentPane().add(lblDataSaida);
@@ -37,22 +39,26 @@ public class TelaResumoPagamento extends JFrame implements ActionListener {
         lblValor.setBounds(110, 172, 46, 14);
         getContentPane().add(lblValor);
 
-        JLabel lblPlaca = new JLabel("[placa]");
+        String sPlaca = movimentacao.getVeiculo().getPlaca();
+        JLabel lblValPlaca = new JLabel(sPlaca);
         lblPlaca.setFont(new Font("Tahoma", Font.PLAIN, 14));
         lblPlaca.setBounds(110, 47, 46, 14);
         getContentPane().add(lblPlaca);
 
-        JLabel lblDataEntrada = new JLabel("[data_entrada]");
+        String sEntrada = EstacionamentoUtil.getDisplayData(movimentacao.getDataHoraEntrada());
+        JLabel lblValDataEntrada = new JLabel(sEntrada);
         lblDataEntrada.setFont(new Font("Dialog", Font.BOLD, 12));
         lblDataEntrada.setBounds(229, 87, 181, 14);
         getContentPane().add(lblDataEntrada);
 
-        JLabel lblValDataSaida = new JLabel("[data_saida] ");
+        String sSaida = EstacionamentoUtil.getDisplayData(movimentacao.getDataHoraSaida());
+        JLabel lblValDataSaida = new JLabel(sSaida);
         lblValDataSaida.setFont(new Font("Dialog", Font.BOLD, 12));
         lblValDataSaida.setBounds(229, 129, 181, 14);
         getContentPane().add(lblValDataSaida);
 
-        JLabel lblValValor = new JLabel("[valor]");
+        String sValor = "R$ " + movimentacao.getValor();
+        JLabel lblValValor = new JLabel(sValor);
         lblValValor.setFont(new Font("Dialog", Font.BOLD, 12));
         lblValValor.setBounds(229, 172, 82, 14);
         getContentPane().add(lblValValor);

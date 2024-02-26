@@ -83,6 +83,11 @@ public class EstacionamentoUtil {
     }
 
     public static String getDataAsString(LocalDateTime dataHoraEntrada) {
+
         return dataHoraEntrada.toString();
+    }
+
+    public static String getDisplayData(LocalDateTime data) {
+       return data.format(DateTimeFormatter.ofPattern("dd/MM/yyyy HH:mm"));
     }
 }
