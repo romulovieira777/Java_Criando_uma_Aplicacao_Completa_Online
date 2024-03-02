@@ -1,0 +1,9 @@
+JSF
+Struts
+Spring MVC
+JMock
+Mockito
+JUnit
+Checkstyle
+PMD
+FindBugs
